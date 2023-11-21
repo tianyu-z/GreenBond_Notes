@@ -1,0 +1,24 @@
+Y: 100 # Output function Y (placeholder value)
+tau_k: 0.1 # Tax rate
+delta_K: 0.05 # Depreciation rate of K
+n: 0.01 # Population growth rate
+psi: 1 # Parameter for resource extraction
+zeta: 0.5 # Elasticity parameter for resource extraction
+gamma: 0.3 # Emission factor
+mu: 0.01 # Natural sequestration rate
+kappa: 1.5 # Carbon intensity of output
+theta: 0.2 # Effectiveness of public capital in reducing emissions
+phi: 0.4 # Elasticity parameter for emissions reduction
+alpha_4: 0.1 # Parameter in public debt equation
+beta: 0.6 # Elasticity parameter in output function
+r_t: 0.03 # Interest rate
+delta_g: 0.07 # Depreciation rate of g
+alpha_1: 0.2 # Parameter in public capital equation
+M_tilde: 350 # Reference level of atmospheric CO2 concentration
+
+rho: 0.05 # Discount rate adjusted for population growth
+alpha_2: 0.15 # Parameter for tax revenue used for welfare enhancement
+eta: 0.5 # Parameter in welfare function
+epsilon: 0.2 # Carbon emissions disutility
+omega: 0.3 # Parameter in welfare function for public infrastructure allocation
+sigma: 0.7 # Parameter in welfare function
